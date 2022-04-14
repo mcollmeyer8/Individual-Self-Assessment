@@ -8,8 +8,7 @@ For the roles/ tasks that I did not tackle for our project, I supported the pers
 
 My biggest challenge was figuring out how I could contribute to the project. My teammates seem to grasp the concepts we've learned better than I have thus far, so they
 took the big, important tasks like building the database and doing the machine learning model. As mentioned, I joined them via Zoom when they were working on the
-different aspects of the project, to be there to support them when I could, and also to learn from them. Teresa is planning to build on the project further, to submit
-to the President of Seward County Community College. I'm planning to help her, to learn more as well as build my skill set.
+different aspects of the project, to be there to support them however I could, and also to learn from them. Teresa is planning to build on the project further, to submit to the President of Seward County Community College. I'm planning to help her, to learn more as well as build my skill set.
 
 
 ## Team Assessment

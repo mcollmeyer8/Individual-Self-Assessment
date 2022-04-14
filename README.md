@@ -6,7 +6,10 @@ For our group project, I maintained the README file. I compiled all resources us
 
 For the roles/ tasks that I did not tackle for our project, I supported the person doing it by being on a Zoom call while they were working as much as possible. Fernando and Teresa are both Analysts for a living, so they have so much knowledge already handling data. I wanted to learn as much as I could from them while they were working on our project. I took notes, both for my own learning as well as for our process documentation for the README.
 
-Additionally, the analysis should describe my greatest personal challenge over the course of the project, and how I overcame that challenge. 
+My biggest challenge was figuring out how I could contribute to the project. My teammates seem to grasp the concepts we've learned better than I have thus far, so they
+took the big, important tasks like building the database and doing the machine learning model. As mentioned, I joined them via Zoom when they were working on the
+different aspects of the project, to be there to support them when I could, and also to learn from them. Teresa is planning to build on the project further, to submit
+to the President of Seward County Community College. I'm planning to help her, to learn more as well as build my skill set.
 
 
 ## Team Assessment

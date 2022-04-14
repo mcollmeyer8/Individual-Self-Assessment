@@ -2,10 +2,9 @@
 
 ## Self-Assessment
 
-We didn't sprecifically assign roles for our group. We focused more on assig
-Presents a cohesive written analysis that describes my role(s) over the course of the project and my contribution to the project in that role. 
+For our group project, I maintained the README file. I compiled all resources used for the project, gathered process data as the team worked through the project, and  created an outline to tell the story of our project flow. When we initially decided to do the Decision Tree model, I created a flow chart to show what questions we would be asking, and what data we would use to answer our questions. I created an ERD for some of the data we used on the project (which was later merged with other ERDs to form 1 master ERD for the project). I also worked on the Google Slides for our presentation.
 
-Presents a cohesive written summary of how I contributed to each of the roles that I did not take on via team discussions, peer reviews, or other means. 
+For the roles/ tasks that I did not tackle for our project, I supported the person doing it by being on a Zoom call while they were working as much as possible. Fernando and Teresa are both Analysts for a living, so they have so much knowledge already handling data. I wanted to learn as much as I could from them while they were working on our project. I took notes, both for my own learning as well as for our process documentation for the README.
 
 Additionally, the analysis should describe my greatest personal challenge over the course of the project, and how I overcame that challenge. 
 
